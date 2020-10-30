@@ -1,16 +1,7 @@
 # challengeTradenergy
 CRUD - Gerenciamento de Usuários
 
-Tecnologias Utilizadas:
-Servidor Local Wamp;
-Editor Brackets;
-html;
-css;
-Php;
-Javascript;
-DataTables;
-jquery;
-Bootstrap;
+Tecnologias Utilizadas: Servidor Local Wamp; Editor Brackets; HTML; css; Php; Javascript; DataTables; jquery; Bootstrap e popper.
 
 O CRUD é composto pelos campos: Id, Nome, email e senha (sem mascara de entrada);
 
